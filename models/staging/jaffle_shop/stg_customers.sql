@@ -8,4 +8,4 @@ with customers as (
 
 )
 
-select * FROM customers
+select * from customers

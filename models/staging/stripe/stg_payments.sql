@@ -11,4 +11,4 @@ with payments as (
     FROM raw.stripe.payment
 )
 
-SELECT * FROM payments;
+select * from payments
